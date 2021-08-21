@@ -101,10 +101,6 @@ https://is.gd/ObFrpt
 http://221.120.204.4/SONY-SAB-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EHSVx9PA5qE/YO47YgHZq1I/AAAAAAAAAck/Rm8Ue2Q6hYk7xay45IpoDDNghj4C8phtgCLcBGAsYHQ/s200/images%2B%25283%2529%25282%2529.png"  group-title="ENGLISH MOVIES",SONY SAB HD (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2840
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png" group-title="ENGLISH MOVIES",Asianet HD1
-https://tvstream.space/jtv/jioliveexe.php?c=Asianet&q=800&e=.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_SD.png" group-title="ENGLISH MOVIES",Asianet1
-https://tvstream.space/jtv/jioliveexe.php?c=Asianet_SD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/08/asianet_news1-1.png" group-title="NEWS",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live2/chunks.m3u8
