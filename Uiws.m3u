@@ -1,17 +1,19 @@
 #EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Zee_Keralam-HD.png",Zee Keralam HD
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-129
+https://rebrand.ly/z-keralam
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/Asianet-HD-Logo-1-2.jpg",Asianet HD
-https://rebrand.ly/asianet-hd
+https://rebrand.ly/Asianet--HD
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_SD.png",Asianet
 https://rebrand.ly/asianet-sd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/53/fc/b7/53fcb74191dd34d3a251bf901b52117b.jpg",Surya TV HD
-https://rebrand.ly/surya-hd
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=26574&e=.m3u8
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg",Surya TV
 https://mhdtvworld.co.in/red/mhd.php?id=2865&e=.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vOL5sff5uxU/VdrhyD5kB7I/AAAAAAAAOwo/C86IZXlu-HU/s1",Mazhavil Manorama HD
 https://rebrand.ly/mazhavil-hd
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-vOL5sff5uxU/VdrhyD5kB7I/AAAAAAAAOwo/C86IZXlu-HU/s1",Mazhavil Manorama HD
+https://rebrand.ly/mazhavilsm
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama 
 http://nicefly.xyz/h21041003/651032140/246136
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png",Flowers 
@@ -29,7 +31,7 @@ https://cdn.logicwebs.in/hls/ublhdkey.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png",Jaihind TV
 http://bosstr.net:80/cat54/DpbYpXOhHn/56431
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/darshana-tv-channel-logo-300x300.jpg",Darshana TV
-https://streaming37.worldbbtv.com/hls/darshana.m3u8
+https://pull-2752.5centscdn.com/abrout/darshana/liveout/darshana_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png",Jeevan TV  
 https://live.neestream.net/neestream_01/jeevantv/index.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png", Middle East
@@ -39,11 +41,11 @@ http://www.luckonline.eu:80/mcSL1jVTiY/EsYv1HOBfb/962
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg",Asianet HD USA
 http://watchindia.net:8880/live/33253/72963/1300.m3u8
 #EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",Surya Movies
-http://rv.flysat.live:80/307211171310/307211171310/83884
+https://rebrand.ly/surya-movies
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",Asianet Movies
-http://nicefly.xyz:80/h21041003/651032140/246013
+https://rebrand.ly/asianet-movies
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg",Asianet Plus
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/167
+https://rebrand.ly/asianet-plus
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fLvsbXbt/Screenshot-2021-04-27-14-36-11-379-com-not-kcvonline-1619601499754.png",KCV MOVIES
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF: -1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/mbo.jpg", MBO HD
@@ -51,7 +53,7 @@ http://watchindia.net:8880/live/33253/72963/2156.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jAMKVwM.png",Kite-Victers
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ukchGM.png",Kaumudy TV
-https://live.wmncdn.net/kaumuditv1/live.stream/chunks.m3u8
+https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w881DVW.png",Safari
 https://live.neestream.net/neestream_01/safaritv/index.m3u8?token=693400
 #EXTINF:-1 tvg-logo="https://cutt.ly/jQxoYWz",KCL
@@ -141,7 +143,7 @@ http://hottest.fit:8080/itzik/itzik3/34266
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS",CARTOON NETWORK
 http://212.102.60.76:80/o1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2011/03/hd-logo-of-kochu-tv-channel-1200x721.jpg" group-title="KIDS",Kochu TV
-http://rv.flysat.live:80/ams/ams123/83890
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=26573&e=.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMTdA_5aPoXXQ8odfAxkHWa_Mg3ebfreROIQ&usqp=CAU" group-title="KIDS",Tom & Jerry
 https://rebrand.ly/jerry-2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK HD
